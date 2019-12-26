@@ -8,3 +8,4 @@ Git是免费软件。
 Git是免费软件。
 Git是免费软件。
 My stupid boss still prefers SVN.
+Git是免费软件。
