@@ -26,3 +26,6 @@ Git is a free software ...
 
 在Dev branch进行了修改。
 
+在Dev branch进行了修改2.
+
+在Dev branch进行了修改3.
